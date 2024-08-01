@@ -1,0 +1,6 @@
+# print("apple", end=", ")
+# print("banana", end=", ")
+# print("cherry")
+print(3,end=" ")
+print(4)
+print(5)

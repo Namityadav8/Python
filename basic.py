@@ -1,10 +1,21 @@
-# Basics of python 
-# print("apple", end=", ")
-# print("banana", end=", ")
-# print("cherry")
-print(3,end=" ")
-print(4)
-print(5)
+# # a=[1,2,3,4,5,6]
+# # for i in a:
+# #     if i%2==0:
+# #         print(i)
 
-print(3,4,5,56,end="!!")
-print(23)
+# # print("Even numbers printed ")
+
+# # a="23"
+# # print(int(a))
+    
+
+# a=3
+# print("the value of a chosen is"," ",a)
+
+
+a="finding intern is getting harder nowadays and it is very important"
+# print(len(a))
+# print(a.capitalize())
+# print(a.startswith("hello"))
+# print(a.replace("intern","internship"))
+

@@ -18,4 +18,4 @@ a="finding intern is getting harder nowadays and it is very important"
 # print(a.capitalize())
 # print(a.startswith("hello"))
 # print(a.replace("intern","internship"))
-
+print(a.upper())

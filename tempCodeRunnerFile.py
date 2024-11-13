@@ -1,1 +1,1 @@
-a=int(input())
+print(prin("bhadwe"))

@@ -35,7 +35,16 @@
 
 # print(fac(5))
 
+# def out(a):
+#     return a
+
+# print(out("bhad"))
+# print(out(3))
+# print(prin("bhad"))
 
 
-
+# a="namit is doing engineering "
+# print(a.upper())
+a=[1,2,3,4,4,2,3,7,1]
+print(list(set(a)))       # it will be printing unique numbers only 
 

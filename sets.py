@@ -35,5 +35,8 @@
 # print(c)
 # print(len(c))
 
-a="this AJDVGJS is namit"
-print(a.lower())
+# a="this AJDVGJS is namit"
+# print(a.lower())
+
+a={}
+print(type(a))
